@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>ch.giuntini</groupId>
+    <artifactId>NETJLO</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0.0-SNAPSHOT</version>
+
+    <properties>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+    </properties>
+
+    <modules>
+        <module>../NETJLO-base</module>
+        <module>../NETJLO-core</module>
+        <module>../NETJLO-demanding</module>
+        <module>../NETJLO-fos</module>
+        <module>../NETJLO-default</module>
+        <module>../NETJLO-timed</module>
+    </modules>
+
+    <issueManagement>
+        <system>GitHub</system>
+        <url>https://github.com/Medox36/NETJLO/issues</url>
+    </issueManagement>
+
+    <licenses>
+        <license>
+            <name>Apache License 2.0</name>
+            <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <scm>
+        <connection>scm:git:https://github.com/Medox36/NETJLO</connection>
+        <url>https://github.com/Medox36/NETJLO</url>
+    </scm>
+
+</project>
