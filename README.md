@@ -1,5 +1,5 @@
 # NETJLO
-This repository acts as the index for all the different packages.   
+This repository acts as the index for all the different packages under this project.   
 
 ---
 
