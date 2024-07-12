@@ -15,7 +15,6 @@
     </properties>
 
     <modules>
-        <module>../NETJLO-base</module>
         <module>../NETJLO-core</module>
         <module>../NETJLO-demanding</module>
         <module>../NETJLO-fos</module>
