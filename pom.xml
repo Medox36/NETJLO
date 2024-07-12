@@ -15,11 +15,11 @@
     </properties>
 
     <modules>
-        <module>../NETJLO-core</module>
-        <module>../NETJLO-demanding</module>
-        <module>../NETJLO-fos</module>
-        <module>../NETJLO-default</module>
-        <module>../NETJLO-timed</module>
+        <module>NETJLO-core</module>
+        <module>NETJLO-default</module>
+        <module>NETJLO-demanding</module>
+        <module>NETJLO-fos</module>
+        <module>NETJLO-timed</module>
     </modules>
 
     <issueManagement>

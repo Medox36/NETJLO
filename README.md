@@ -9,7 +9,7 @@ Data is being sent via Object Serialisation and Deserialization, wich can be ext
 The Data being received will get sent to an Interpreter object/class to be processed.
 
 ## [NETJLO-core]
-The core package contains classes on which all other packages as based on and oneverything to make Connections from a client to a server and back.  
+The core package contains classes on which all other packages as based on and everything to make Connections from a client to a server and back.  
 Make your own interpreter to decide what to do with the information sent over the socket. And make your very own custom package to send whatever type of data you want over the connection.  
 Repository can be found [here](https://github.com/Medox36/NETJLO-core).
 
